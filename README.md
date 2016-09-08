@@ -1,2 +1,6 @@
 # wrx
-It is the first time use GitHub
+
+
+hello word
+Today is Firday
+ It is the differencens from master
